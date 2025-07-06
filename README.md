@@ -31,3 +31,5 @@ Este repositorio contiene un ejercicio de limpieza de datos aplicado a un datase
 **Yisela Mayorga Salazar**  
 Especialización en Analítica y Ciencia de Datos Aplicada  
 Universidad Tecnológica de Pereira
+
+📘 [Visualizar notebook en nbviewer](https://nbviewer.org/github/yiselams/Limpieza-datos-educacion-superior-colombia/blob/main/Taller_Limpieza_Datos_YMS.ipynb)
